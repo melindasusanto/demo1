@@ -11,7 +11,6 @@
 
 <param title="Beatrix Farrand" eid="Q437714">
 <param title="cherry blossom" eid="Q871991">
-<param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
 
 ## Subtitle
 Code to add a location with a custom marker on a map for every paragraph in this section.

@@ -79,7 +79,7 @@ The result, Brigham reports, is a “wholesome and very nutritious bread, which 
  
 Brigham also remarks that cassava bread loaves are attractive and would be easy to export, and suggests they be sold overseas for their dietary benefits.
 <param ve-image
-title="William Tufts Brigham,_Guatemala, The Land of the Quetzal_(1887)" url="Indonesia.jpg"
+title="William Tufts Brigham,_Guatemala, The Land of the Quetzal_(1887)" url="Guatemala.jpg"
        fit="cover"
        attribution="Wikimedia Commons">
 

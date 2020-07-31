@@ -19,14 +19,23 @@ title="Cassava Garden" url="Crosby.jpg"
        fit="contain"
        attribution="Courtesy of the artist">
        
+## Indigenous Uses
+Cassava is a starchy tuber and can be used to make a variety of dishes and beverages. Most commonly it is made into a starchy flour to produce breads and cakes, or it can be used to make fermented beverages. Accounts of native peoples in South America and Latin America producing fermented beverages permeate the records kept by European travellers and conquerors. In the 16th century, a detailed account of the preparation of a fermented alcoholic drink was made by a Frenchman Jean de Léry who visited Brazil, in the early 17th century a Spaniard, Antonio de León Pinelo, kept a very similar account of the process in Peru, and a British duo by the names of Bedford Pim and Berthold Seemann encountered the same process of cassava fermentation in 19th century in Nicaragua.  Depending on the location, the beverage can be called chicha, massato (a non-alcoholic variant mixed with honey), acca, kufa or mushla. 
+<param ve-image
+title="Antonio de León Pinelo (1636)" url="Pinelo.jpg"
+       fit="cover"
+       attribution="tbc">
+
 ## Fermentation
+One version of the alcoholic recipe, recorded by the Frenchman Jean de Léry in his voyages in Brazil, is as follows.
+<param ve-image
+title="_Proceedings of the Royal Society of London_(1906)" url="Pots.jpg"
+       fit="cover"
+       attribution="tbc">
 Talk about actual process of production of ferm bevs and how it has continued to today and remains important in Latin American cultures
 
 The preparation process for chicha uses several tools.  The basic process is that cassava is either turned into flour or cut, then boiled, chewed and combined with saliva in the mouth for some time, then boiled again in a different vessel, then it is left to ferment for several days until it is ready for consumption. To the right are modern tools used to create chicha in Argentina.This shows that even today people continue to follow the traditional methods established by their ancestors to create fermented cassava beverages.
-<param ve-image
-title="_Proceedings of the Royal Society of London_(1906)" url="pots.jpg"
-       fit="cover"
-       attribution="tbc">
+
 
 ## Sweet and bitter cassava
 <param ve-plant-specimen eid="Q83124" max="2" reverse="true">

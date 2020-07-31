@@ -64,11 +64,11 @@ The preparation process for chicha uses several tools.  The basic process is tha
 Cassava exists in two varieties: sweet and bitter cassava. In their raw forms, both sweet and bitter cassava contain hydrocyanic acid which is toxic to humans. The more bitter the cassava is, the more toxic it is. Making the cassava root safe for consumption continues to be a concern today, especially in developing countries where cassava is a food security crop.
  
  <param ve-image
-title="Pohl, Manihot utilissima" url="Pohl-Utilissima.jpg"
+title="Specimen previously misidentified as Manihot utilissima by Pohl" url="Pohl-Utilissima.jpg"
        fit="cover"
        attribution="Global Plants">
        <param ve-image
-title="Sloane specimen from Jamaica" url="Sloane-Jamaica.jpg"
+title="Specimen collected by Hans Sloane from Jamaica, previously misidentified as Jatropha manihot by Carl Linnaeus" url="Sloane-Jamaica.jpg"
        fit="cover"
        attribution="Global Plants">
 Today, these two varieties belong to the same species of cultivated cassava, _Manihot esculenta_. In the past, however, scientists thought they were two different species. Then, bitter cassava was identified as _Manihot utilissima_, and sweet cassava as _Manihot aipi_. An article on cyanogenesis in the 1906 Proceedings of the Royal Society of London outlines the many experimentations which had been conducted on the cassava root to determine its composition. Such endeavours can be traced back as early as the 18th century, when Europeans began to write about methods of extracting the starch from cassava. Before such technologies existed however, Europeans relied upon indigenous knowledge to learn how to process cassava before consumption. 

@@ -36,13 +36,14 @@ title="Pottery vessel" url="Chimu.jpg"
        fit="cover"
        attribution="tbc">
 
+## Subtitle tbc
 Cassava is a starchy tuber and can be used to make a variety of dishes and beverages. Most commonly it is made into a starchy flour to produce breads and cakes, or it can be used to make fermented beverages. Accounts of native peoples in South America and Latin America producing fermented beverages permeate the records kept by European travellers and conquerors. In the 16th century, a detailed account of the preparation of a fermented alcoholic drink was made by a Frenchman Jean de Léry who visited Brazil, in the early 17th century a Spaniard, Antonio de León Pinelo, kept a very similar account of the process in Peru, and a British duo by the names of Bedford Pim and Berthold Seemann encountered the same process of cassava fermentation in 19th century in Nicaragua.  Depending on the location, the beverage can be called chicha, massato (a non-alcoholic variant mixed with honey), acca, kufa or mushla. 
 <param ve-image
 title="Antonio de León Pinelo (1636)" url="Pinelo.jpg"
        fit="cover"
        attribution="tbc">
 
-## Fermentation
+## Subtitle tbc
 One version of the alcoholic recipe, recorded by the Frenchman Jean de Léry in his voyages in Brazil, is as follows.
 <param ve-image
 title="_Proceedings of the Royal Society of London_(1906)" url="Pots.jpg"
@@ -63,7 +64,7 @@ title="_Proceedings of the Royal Society of London_(1906)" url="https://www.biod
        attribution="Biodiversity Heritage Library">
 Today, these two varieties belong to the same species of cultivated cassava, _Manihot esculenta_. In the past, however, scientists thought they were two different species. Then, bitter cassava was identified as _Manihot utilissima_, and sweet cassava as _Manihot aipi_. An article on cyanogenesis in the 1906 Proceedings of the Royal Society of London outlines the many experimentations which had been conducted on the cassava root to determine its composition. Such endeavours can be traced back as early as the 18th century, when Europeans began to write about methods of extracting the starch from cassava. Before such technologies existed however, Europeans relied upon indigenous knowledge to learn how to process cassava before consumption. 
 
-## Encounters with cassava
+## Subtitle tbc
 The cassava plant is native to Bolivia, Brazil, Colombia, Ecuador and Peru. It is no surprise then, that some of the earliest descriptions of cassava are found in books written by European travelers to South America.
 <param ve-image
 title="_Historia naturalis Brasiliae_(1648)" url="https://www.biodiversitylibrary.org/pageimage/47360879"
@@ -86,7 +87,7 @@ title="Maria Sybilla Merian, 17th century" url="Merian_cassava.jpg"
 Descriptions of cassava in European texts became closely linked to emerging ideas of race as we move from the 18th into the 19th century. Even though earlier texts sometimes feature indigenous peoples working with some form of technology, texts from the late 18th century onwards began to situate indigenous peoples in more primitive-looking landscapes which reduce them to stereotypes. An engraving in Thomas Middleton’s Geography Systems (1769) demonstrates how books during this time applied derogatory terms such as “negros” to black bodies.
 <param ve-storiiies id="861e9">
 
-## Diasporic and Contemporary Food Uses
+## Diasporic and contemporary food uses
 <param ve-image
 title="William Tufts Brigham,_Guatemala, The Land of the Quetzal_(1887)" url="Guatemala.jpg"
        fit="cover"

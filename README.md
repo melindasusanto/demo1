@@ -12,11 +12,8 @@
 <param title="Beatrix Farrand" eid="Q437714">
 <param title="cherry blossom" eid="Q871991">
 
-## Subtitle
-Code to add a location with a custom marker on a map for every paragraph in this section.
-<param title="Sulawesi" eid="Q3812" fill="#FF0000" marker-symbol="landmark">
-
-## Introduction here
+## Introduction 
+Text Here
 <param ve-image
 title="Cassava Garden" url="Crosby.jpg"
        fit="contain"

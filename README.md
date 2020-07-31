@@ -77,7 +77,7 @@ title="Albert Eckhout,_Still life with Mandioca_, 17th century, National Museum 
 
 Cassava was becoming established as a staple in the West Indies by the 17th century, as described in Maria Sybilla Merian’s Metamorphosis insectorum Surinamensium (1719). Merian’s meticulously illustrated book describes plants and insects she encountered during her stay in Surinam between 1699 and 1701. Merian describes the cassava root as the ingredient for bread, a common food for both indigenous peoples and Europeans living in America by this time. 
 <param ve-image
-title="Maria Sybilla Merian, 17th century" url="Merian.jpg"
+title="Maria Sybilla Merian, 17th century" url="Merian_cassava.jpg"
        fit="cover"
        attribution="Dumbarton Oaks">
 

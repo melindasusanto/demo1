@@ -38,5 +38,9 @@ Descriptions of cassava in European texts became closely linked to emerging idea
 
 ## Conclusion
 Today, cassava is still grown in Java, and in other regions around the globe. This resilient, adaptable root with nutritious value has long become an ubiquitous presence in our lives, from tapioca school pudding to bubble tea. People all over the world continue to reinvent its meaning and connect to cassava in their own ways. Nigerian-American artist Njideka Akyunyili Crosby has featured cassava prominently in her work as she explores the ability of people, plants, and paintings to inhabit multiple spaces. For Crosby, cassava has a specific association with village life in Nigeria. In her painting Cassava Garden, she juxtaposes it with an Indian rubber tree from her life in Los Angeles to create an imagined garden where two plants that are not usually found together can coexist. Ultimately, she uses cassava and the Indian rubber tree to ask, “when does something belong to a place?” 
+<param ve-image
+title="Cassava Garden" url="Crosby.jpg"
+       fit="contain"
+       attribution="Courtesy of the artist">
 <param ve-storiiies id="2e1e3">
 <param ve-video id="pUZijlho9CM" title="Crosby">

@@ -59,7 +59,10 @@ Descriptions of cassava in European texts became closely linked to emerging idea
 <param ve-storiiies id="861e9">
 
 ## Diasporic and Contemporary Food Uses
-
+<param ve-image
+title="William Tufts Brigham,_Guatemala, The Land of the Quetzal_(1887)" url="Guatemala.jpg"
+       fit="cover"
+       attribution="Wikimedia Commons">
 In 1887, American botanist, geologist, and ethnologist William Tufts Brigham published Guatemala, The Land of the Quetzal, in which he reported observations from his time in the book’s eponymous region. While visiting the town of Livingston, he describes being invited into people’s homes and witnessing the process of making cassava bread. He first notes the size of the cassava roots (twenty or thirty pounds) and their poisonous juice, before explaining how the bread is made.
  
 Instructions for Livingston Cassava Bread:
@@ -77,12 +80,11 @@ The result, Brigham reports, is a “wholesome and very nutritious bread, which 
 •	A palatable food for sea-sickness that “serves to fill out the bony outlines of an emaciated human frame better than anything else.”
  
 Brigham also remarks that cassava bread loaves are attractive and would be easy to export, and suggests they be sold overseas for their dietary benefits.
+
 <param ve-image
-title="William Tufts Brigham,_Guatemala, The Land of the Quetzal_(1887)" url="Guatemala.jpg"
+title="Dutch East Indies, 1915" url="Indonesia.jpg"
        fit="cover"
        attribution="Wikimedia Commons">
-
-
 Brigham was not alone in his support of a more expansive cassava industry. Just a few decades before Brigham published Guatemala, the Director of Cultivation of Java ordered a new shipment of cassava to the island. A notable family from the island of Malacca also began  large-scale cultivation of the plant. Indeed, it seems that although there were earlier reports of cassava in Africa in the sixteenth century, it would take a few more centuries for the plant to become popularized beyond South America. English botanist Isaac Henry Burkill similarly observed that “there were two chapters in the establishment of the plant outside its home—one concerned with the carrying of it abroad as a vegetable, and the other with the establishment abroad of its industrial use. A long space of time separated them, as the plant was taken overseas as a vegetable about the year 1500, but the establishment of a tapioca [a cassava byproduct] industry outside America did not follow until two and a half centuries later.” Although it is difficult to ascertain by what routes cassava was taken overseas and exactly when it became popularized outside of South America, by the twentieth century, cassava was being actively grown as a crop in southern North America, central Africa, and South and Southeast Asia.
 
 Here we see a photo of workers in the cassava industry in the Dutch East Indies taken around 1915. 
@@ -93,11 +95,6 @@ Burkill describes the process of making one particular Javanese cassava dish:
 3.Cut steamed inner parts into pieces
 4.Sun-dry or pickle the pieces in brine
 5.Fry the cassava pieces 
-
-<param ve-image
-title="Dutch East Indies, 1915" url="Indonesia.jpg"
-       fit="cover"
-       attribution="Wikimedia Commons">
 
 ## Conclusion
 Today, cassava is still grown in Java, and in other regions around the globe. This resilient, adaptable root with nutritious value has long become an ubiquitous presence in our lives, from tapioca school pudding to bubble tea. People all over the world continue to reinvent its meaning and connect to cassava in their own ways. Nigerian-American artist Njideka Akyunyili Crosby has featured cassava prominently in her work as she explores the ability of people, plants, and paintings to inhabit multiple spaces. For Crosby, cassava has a specific association with village life in Nigeria. In her painting Cassava Garden, she juxtaposes it with an Indian rubber tree from her life in Los Angeles to create an imagined garden where two plants that are not usually found together can coexist. Ultimately, she uses cassava and the Indian rubber tree to ask, “when does something belong to a place?” 

@@ -58,6 +58,31 @@ title="Albert Eckhout,_Still life with Mandioca_, 17th century, National Museum 
 Descriptions of cassava in European texts became closely linked to emerging ideas of race as we move from the 18th into the 19th century. Even though earlier texts sometimes feature indigenous peoples working with some form of technology, texts from the late 18th century onwards began to situate indigenous peoples in more primitive-looking landscapes which reduce them to stereotypes. An engraving in Thomas Middleton’s Geography Systems (1769) demonstrates how books during this time applied derogatory terms such as “negros” to black bodies.
 <param ve-storiiies id="861e9">
 
+## Diasporic and Contemporary Food Uses
+
+In 1887, American botanist, geologist, and ethnologist William Tufts Brigham published Guatemala, The Land of the Quetzal, in which he reported observations from his time in the book’s eponymous region. While visiting the town of Livingston, he describes being invited into people’s homes and witnessing the process of making cassava bread. He first notes the size of the cassava roots (twenty or thirty pounds) and their poisonous juice, before explaining how the bread is made.
+ 
+Instructions for Livingston Cassava Bread:
+ 
+1.	Using a mahogany board with inserted quartz crystal, grate the cassava root into a coarse meal.
+2.	Wash the meal carefully and partly remove the starch, which will settle in the water as tapioca.
+3.	Place the meal in a serpiente, or a basket-work sack, which will serve as a press and squeeze the meal.
+4.	Make the pressed meal into flat loaves roughly three feet in diameter and less than an inch thick.
+5.	Dry and bake the loaves. 
+
+The result, Brigham reports, is a “wholesome and very nutritious bread, which keeps a long time and is capital on an excursion.” Brigham notes that cassava bread also makes for:
+•	“Excellent puddings”
+•	A better accompaniment for soup than crackers
+•	An indispensable snack in the woods
+•	“A capital diet in dyspepsia”
+•	A palatable food for sea-sickness that “serves to fill out the bony outlines of an emaciated human frame better than anything else.”
+ 
+Brigham also remarks that cassava bread loaves are attractive and would be easy to export, and suggests they be sold overseas for their dietary benefits.
+<param ve-image
+title="William Tufts Brigham,_Guatemala, The Land of the Quetzal_(1887)" url="Indonesia.jpg"
+       fit="cover"
+       attribution="Wikimedia Commons">
+
 ## Conclusion
 Today, cassava is still grown in Java, and in other regions around the globe. This resilient, adaptable root with nutritious value has long become an ubiquitous presence in our lives, from tapioca school pudding to bubble tea. People all over the world continue to reinvent its meaning and connect to cassava in their own ways. Nigerian-American artist Njideka Akyunyili Crosby has featured cassava prominently in her work as she explores the ability of people, plants, and paintings to inhabit multiple spaces. For Crosby, cassava has a specific association with village life in Nigeria. In her painting Cassava Garden, she juxtaposes it with an Indian rubber tree from her life in Los Angeles to create an imagined garden where two plants that are not usually found together can coexist. Ultimately, she uses cassava and the Indian rubber tree to ask, “when does something belong to a place?” 
 <param ve-image

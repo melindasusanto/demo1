@@ -37,20 +37,20 @@ The code below is an example of how to add a custom geojson overlay. Lorem ipsum
 Cassava exists in two varieties: sweet and bitter cassava. In their raw forms, both sweet and bitter cassava contain hydrocyanic acid which is toxic to humans. The more bitter the cassava is, the more toxic it is. Making the cassava root safe for consumption continues to be a concern today, especially in developing countries where cassava is a food security crop.
  
  <param ve-image
-title="Proceedings" url="https://www.biodiversitylibrary.org/pageimage/43363072"
+title="_Proceedings of the Royal Society of London_(1906)" url="https://www.biodiversitylibrary.org/pageimage/43363072"
        fit="cover"
        attribution="Biodiversity Heritage Library">
-Today, these two varieties belong to the same species of cultivated cassava, Manihot esculenta. In the past, however, scientists thought they were two different species. Then, bitter cassava was identified as Manihot utilissima, and sweet cassava as Manihot aipi. An article on cyanogenesis in the 1906 Proceedings of the Royal Society of London outlines the many experimentations which had been conducted on the cassava root to determine its composition. Such endeavours can be traced back as early as the 18th century, when Europeans began to write about methods of extracting the starch from cassava. Before such technologies existed however, Europeans relied upon indigenous knowledge to learn how to process cassava before consumption. 
+Today, these two varieties belong to the same species of cultivated cassava, _Manihot esculenta_. In the past, however, scientists thought they were two different species. Then, bitter cassava was identified as _Manihot utilissima_, and sweet cassava as _Manihot aipi_. An article on cyanogenesis in the 1906 Proceedings of the Royal Society of London outlines the many experimentations which had been conducted on the cassava root to determine its composition. Such endeavours can be traced back as early as the 18th century, when Europeans began to write about methods of extracting the starch from cassava. Before such technologies existed however, Europeans relied upon indigenous knowledge to learn how to process cassava before consumption. 
 
 ## Encounters with cassava
 The cassava plant is native to Bolivia, Brazil, Colombia, Ecuador and Peru. It is no surprise then, that some of the earliest descriptions of cassava are found in books written by European travelers to South America.
 <param ve-image
-title="_Proceedings of the Royal Society of London_, 1906" url="https://www.biodiversitylibrary.org/pageimage/47360879"
+title="_Historia naturalis Brasiliae_(1648)" url="https://www.biodiversitylibrary.org/pageimage/47360879"
        fit="cover"
        attribution="Biodiversity Heritage Library">
-The method of preparing cassava is illustrated in Historia Naturalis Brasiliae (1648), a comprehensive text on Brazilian flora and fauna. It was written by Willem Piso, a Dutch physician and naturalist who travelled with Johan Maurits and the Dutch West India Company to Brazil between 1637 to 1644. Albert Eckhout, an artist on this very same journey, also painted a still-life of the cassava plant, which became one of the earliest paintings of native flora from Brazil in Europe.
+The method of preparing cassava is illustrated in _Historia naturalis Brasiliae_ (1648), a comprehensive text on Brazilian flora and fauna. It was written by Willem Piso, a Dutch physician and naturalist who travelled with Johan Maurits and the Dutch West India Company to Brazil between 1637 to 1644. Albert Eckhout, an artist on this very same journey, also painted a still-life of the cassava plant, which became one of the earliest paintings of native flora from Brazil in Europe.
 <param ve-image
-title="Albert Eckhout, Still life with Mandioca, 17th century, oil on canvas, 93 x 93 cm, National Museum of Denmark N.93 " url="Albert_Eckhout_Mandioca.jpg"
+title="Albert Eckhout,_Still life with Mandioca_, 17th century, National Museum of Denmark" url="Albert_Eckhout_Mandioca.jpg"
        fit="cover"
        attribution="Wikimedia Commons">
 

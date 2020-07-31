@@ -32,6 +32,12 @@ The code below is an example of how to add a custom geojson overlay. Lorem ipsum
 <param ve-map center="1.8479, 120.5279" zoom="6">
 <param ve-map-layer geojson url="map.json" title="Sulawesi" fill="#FF0000" marker-symbol="landmark" active>
 
+## Sweet and bitter cassava
+<param ve-plant-specimen eid="Q83124" max="3" reverse="true">
+Cassava exists in two varieties: sweet and bitter cassava. In their raw forms, both sweet and bitter cassava contain hydrocyanic acid which is toxic to humans. The more bitter the cassava is, the more toxic it is. Making the cassava root safe for consumption continues to be a concern today, especially in developing countries where cassava is a food security crop.
+ 
+Today, these two varieties belong to the same species of cultivated cassava, Manihot esculenta. In the past, however, scientists thought they were two different species. Then, bitter cassava was identified as Manihot utilissima, and sweet cassava as Manihot aipi. An article on cyanogenesis in the 1906 Proceedings of the Royal Society of London outlines the many experimentations which had been conducted on the cassava root to determine its composition. Such endeavours can be traced back as early as the 18th century, when Europeans began to write about methods of extracting the starch from cassava. Before such technologies existed however, Europeans relied upon indigenous knowledge to learn how to process cassava before consumption. 
+
 ## Racism and slavery
 Descriptions of cassava in European texts became closely linked to emerging ideas of race as we move from the 18th into the 19th century. Even though earlier texts sometimes feature indigenous peoples working with some form of technology, texts from the late 18th century onwards began to situate indigenous peoples in more primitive-looking landscapes which reduce them to stereotypes. An engraving in Thomas Middleton’s Geography Systems (1769) demonstrates how books during this time applied derogatory terms such as “negros” to black bodies.
 <param ve-storiiies id="861e9">

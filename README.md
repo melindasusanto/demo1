@@ -13,7 +13,7 @@
 <param title="cherry blossom" eid="Q871991">
 
 ## Introduction 
-Text Here
+Paragraph text-Paste the text for the first paragraph in your narrative here. Below is the code for adding a simple image. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-image
 title="Cassava Garden" url="Crosby.jpg"
        fit="contain"
@@ -40,6 +40,13 @@ The method of preparing cassava is illustrated in _Historia naturalis Brasiliae_
 title="Albert Eckhout,_Still life with Mandioca_, 17th century, National Museum of Denmark" url="Albert_Eckhout_Mandioca.jpg"
        fit="cover"
        attribution="Wikimedia Commons">
+
+Cassava was becoming established as a staple in the West Indies by the 17th century, as described in Maria Sybilla Merian’s Metamorphosis insectorum Surinamensium (1719). Merian’s meticulously illustrated book describes plants and insects she encountered during her stay in Surinam between 1699 and 1701. Merian describes the cassava root as the ingredient for bread, a common food for both indigenous peoples and Europeans living in America by this time. 
+<param ve-image
+title="Maria Sybilla Merian, 17th century" url="Merian.jpg"
+       fit="cover"
+       attribution="Dumbarton Oaks">
+
 
 ## Racism and slavery
 Descriptions of cassava in European texts became closely linked to emerging ideas of race as we move from the 18th into the 19th century. Even though earlier texts sometimes feature indigenous peoples working with some form of technology, texts from the late 18th century onwards began to situate indigenous peoples in more primitive-looking landscapes which reduce them to stereotypes. An engraving in Thomas Middleton’s Geography Systems (1769) demonstrates how books during this time applied derogatory terms such as “negros” to black bodies.

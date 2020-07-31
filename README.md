@@ -19,6 +19,15 @@ title="Cassava Garden" url="Crosby.jpg"
        fit="contain"
        attribution="Courtesy of the artist">
        
+## Fermentation
+Talk about actual process of production of ferm bevs and how it has continued to today and remains important in Latin American cultures
+
+The preparation process for chicha uses several tools.  The basic process is that cassava is either turned into flour or cut, then boiled, chewed and combined with saliva in the mouth for some time, then boiled again in a different vessel, then it is left to ferment for several days until it is ready for consumption. To the right are modern tools used to create chicha in Argentina.This shows that even today people continue to follow the traditional methods established by their ancestors to create fermented cassava beverages.
+<param ve-image
+title="_Proceedings of the Royal Society of London_(1906)" url="pots.jpg"
+       fit="cover"
+       attribution="tbc">
+
 ## Sweet and bitter cassava
 <param ve-plant-specimen eid="Q83124" max="2" reverse="true">
 Cassava exists in two varieties: sweet and bitter cassava. In their raw forms, both sweet and bitter cassava contain hydrocyanic acid which is toxic to humans. The more bitter the cassava is, the more toxic it is. Making the cassava root safe for consumption continues to be a concern today, especially in developing countries where cassava is a food security crop.

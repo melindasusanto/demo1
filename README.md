@@ -20,7 +20,11 @@ title="Cassava Garden" url="Crosby.jpg"
        attribution="Courtesy of the artist">
        
 ## Indigenous Food Uses
-The native distribution of cassava spans Western South American through Brazil, as indicated by the countries highlighted in [green] on the map to the right. Based on archaeological evidence, it is thought that cassava was domesticated in small garden plots through several individual events by different people groups living in these areas around 8,000 B.C. From there, domesticated Manihot esculenta spread by other domestication events or through short-distance trade of cuttings or seeds from the plant, rather than by transporting the perishable roots. Because cassava favors warm and hot climes, today it can be found successfully growing in parts of North America, South America, Africa, the Mediterranean, Southeast Asia and islands in the Pacific Ocean. 
+The native distribution of cassava spans Western South America through Brazil, as indicated by the countries highlighted in green on the map to the right. Based on archaeological evidence, it is thought that cassava was domesticated in small garden plots through several individual events by different people groups living in these areas around 8,000 B.C. From there, domesticated Manihot esculenta spread by other domestication events or through short-distance trade of cuttings or seeds from the plant, rather than by transporting the perishable roots. Because cassava favors warm and hot climes, today it can be found successfully growing in parts of North America, South America, Africa, the Mediterranean, Southeast Asia and islands in the Pacific Ocean. 
+<param ve-map prefer-geojson center="Q739" zoom="5" basemap="Esri_WorldPhysical">
+<param title="Brazil" eid="Q155">
+<param title="Peru" eid="Q419">
+<param title="Colombia" eid="Q739">
 
 In Peru, there is evidence from ancient textiles, pottery and archaeobotanical findings that the Moche (A.D. 250-750), Nazca (200 B.C.-A.D. 600)  and Chimú (A.D. 1000-1470) cultures all valued cassava. To the right is a vessel from the Chimú culture depicting cassava roots.
 <param ve-image

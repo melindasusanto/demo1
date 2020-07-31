@@ -46,11 +46,16 @@ title="Antonio de León Pinelo (1636)" url="Pinelo.jpg"
 ## Subtitle tbc
 One version of the alcoholic recipe, recorded by the Frenchman Jean de Léry in his voyages in Brazil, is as follows.
 <param ve-image
+title="Jean de Lery (1578)" 
+url="https://books.google.nl/books?id=rK1hAAAAcAAJ&dq=Histoire%20d'un%20voyage%20fait%20en%20la%20terre%20de%20Br%C3%A9sil&pg=PA136&output=embed"
+       fit="cover"
+       attribution="tbc">
+
+Talk about actual process of production of ferm bevs and how it has continued to today and remains important in Latin American cultures
+<param ve-image
 title="_Proceedings of the Royal Society of London_(1906)" url="Pots.jpg"
        fit="cover"
        attribution="tbc">
-Talk about actual process of production of ferm bevs and how it has continued to today and remains important in Latin American cultures
-
 The preparation process for chicha uses several tools.  The basic process is that cassava is either turned into flour or cut, then boiled, chewed and combined with saliva in the mouth for some time, then boiled again in a different vessel, then it is left to ferment for several days until it is ready for consumption. To the right are modern tools used to create chicha in Argentina.This shows that even today people continue to follow the traditional methods established by their ancestors to create fermented cassava beverages.
 
 

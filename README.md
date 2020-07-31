@@ -45,7 +45,7 @@ Today, these two varieties belong to the same species of cultivated cassava, Man
 ## Encounters with cassava
 The cassava plant is native to Bolivia, Brazil, Colombia, Ecuador and Peru. It is no surprise then, that some of the earliest descriptions of cassava are found in books written by European travelers to South America.
 <param ve-image
-title="Proceedings of the Royal Society of London (1906)" url="https://www.biodiversitylibrary.org/pageimage/47360879"
+title="_Proceedings of the Royal Society of London_, 1906" url="https://www.biodiversitylibrary.org/pageimage/47360879"
        fit="cover"
        attribution="Biodiversity Heritage Library">
 The method of preparing cassava is illustrated in Historia Naturalis Brasiliae (1648), a comprehensive text on Brazilian flora and fauna. It was written by Willem Piso, a Dutch physician and naturalist who travelled with Johan Maurits and the Dutch West India Company to Brazil between 1637 to 1644. Albert Eckhout, an artist on this very same journey, also painted a still-life of the cassava plant, which became one of the earliest paintings of native flora from Brazil in Europe.

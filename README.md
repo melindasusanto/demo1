@@ -63,12 +63,11 @@ Descriptions of cassava in European texts became closely linked to emerging idea
 In 1887, American botanist, geologist, and ethnologist William Tufts Brigham published Guatemala, The Land of the Quetzal, in which he reported observations from his time in the book’s eponymous region. While visiting the town of Livingston, he describes being invited into people’s homes and witnessing the process of making cassava bread. He first notes the size of the cassava roots (twenty or thirty pounds) and their poisonous juice, before explaining how the bread is made.
  
 Instructions for Livingston Cassava Bread:
- 
-1.	Using a mahogany board with inserted quartz crystal, grate the cassava root into a coarse meal.
-2.	Wash the meal carefully and partly remove the starch, which will settle in the water as tapioca.
-3.	Place the meal in a serpiente, or a basket-work sack, which will serve as a press and squeeze the meal.
-4.	Make the pressed meal into flat loaves roughly three feet in diameter and less than an inch thick.
-5.	Dry and bake the loaves. 
+1.Using a mahogany board with inserted quartz crystal, grate the cassava root into a coarse meal.
+2.Wash the meal carefully and partly remove the starch, which will settle in the water as tapioca.
+3.Place the meal in a serpiente, or a basket-work sack, which will serve as a press and squeeze the meal.
+4.Make the pressed meal into flat loaves roughly three feet in diameter and less than an inch thick.
+5.Dry and bake the loaves. 
 
 The result, Brigham reports, is a “wholesome and very nutritious bread, which keeps a long time and is capital on an excursion.” Brigham notes that cassava bread also makes for:
 •	“Excellent puddings”
@@ -89,11 +88,11 @@ Brigham was not alone in his support of a more expansive cassava industry. Just 
 Here we see a photo of workers in the cassava industry in the Dutch East Indies taken around 1915. 
  
 Burkill describes the process of making one particular Javanese cassava dish:
-1.     Peel cassava tubers
-2.     Steam the inner parts of the tubers
-3.     Cut steamed inner parts into pieces
-4.     Sun-dry or pickle the pieces in brine
-5.     Fry the cassava pieces 
+1.Peel cassava tubers
+2.Steam the inner parts of the tubers
+3.Cut steamed inner parts into pieces
+4.Sun-dry or pickle the pieces in brine
+5.Fry the cassava pieces 
 
 <param ve-image
 title="Dutch East Indies, 1915" url="Indonesia.jpg"

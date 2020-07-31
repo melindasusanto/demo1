@@ -24,7 +24,7 @@ title="Cassava Garden" url="Crosby.jpg"
        attribution="Courtesy of the artist">
        
 ## Indigenous Food Uses
-The native distribution of cassava spans Western South America through Brazil, as indicated by the countries highlighted in green on the map to the right. Based on archaeological evidence, it is thought that cassava was domesticated in small garden plots through several individual events by different people groups living in these areas around 8,000 B.C. From there, domesticated Manihot esculenta spread by other domestication events or through short-distance trade of cuttings or seeds from the plant, rather than by transporting the perishable roots. Because cassava favors warm and hot climes, today it can be found successfully growing in parts of North America, South America, Africa, the Mediterranean, Southeast Asia and islands in the Pacific Ocean. 
+The native distribution of cassava spans Western South America through Brazil, as indicated by the countries highlighted in green on the map to the right. Based on archaeological evidence, it is thought that cassava was domesticated in small garden plots through several individual events by different people groups living in these areas around 8,000 B.C. From there, domesticated _Manihot esculenta_ spread by other domestication events or through short-distance trade of cuttings or seeds from the plant, rather than by transporting the perishable roots. Because cassava favors warm and hot climes, today it can be found successfully growing in parts of North America, South America, Africa, the Mediterranean, Southeast Asia and islands in the Pacific Ocean. 
 <param ve-map prefer-geojson center="Q739" zoom="5" basemap="Esri_WorldPhysical">
 <param title="Brazil" eid="Q155">
 <param title="Peru" eid="Q419">
@@ -37,7 +37,7 @@ title="Pottery vessel" url="Chimu.jpg"
        attribution="tbc">
 
 ## Subtitle tbc
-Cassava is a starchy tuber and can be used to make a variety of dishes and beverages. Most commonly it is made into a starchy flour to produce breads and cakes, or it can be used to make fermented beverages. Accounts of native peoples in South America and Latin America producing fermented beverages permeate the records kept by European travellers and conquerors. In the 16th century, a detailed account of the preparation of a fermented alcoholic drink was made by a Frenchman Jean de Léry who visited Brazil, in the early 17th century a Spaniard, Antonio de León Pinelo, kept a very similar account of the process in Peru, and a British duo by the names of Bedford Pim and Berthold Seemann encountered the same process of cassava fermentation in 19th century in Nicaragua.  Depending on the location, the beverage can be called chicha, massato (a non-alcoholic variant mixed with honey), acca, kufa or mushla. 
+Cassava is a starchy tuber and can be used to make a variety of dishes and beverages. Most commonly it is made into a starchy flour to produce breads and cakes, or it can be used to make fermented beverages. Accounts of native peoples in South America and Latin America producing fermented beverages permeate the records kept by European travellers and conquerors. In the 16th century, a detailed account of the preparation of a fermented alcoholic drink was made by a Frenchman Jean de Léry who visited Brazil, in the early 17th century a Spaniard, Antonio de León Pinelo, kept a very similar account of the process in Peru, and a British duo by the names of Bedford Pim and Berthold Seemann encountered the same process of cassava fermentation in 19th century in Nicaragua.  Depending on the location, the beverage can be called _chicha_, _massato_ (a non-alcoholic variant mixed with honey), _acca_, _kufa_ or _mushla_. 
 <param ve-image
 title="Antonio de León Pinelo (1636)" url="Pinelo.jpg"
        fit="cover"
@@ -51,7 +51,7 @@ url="https://books.google.nl/books?id=rK1hAAAAcAAJ&dq=Histoire%20d'un%20voyage%2
        fit="cover"
        attribution="tbc">
        
-Talk about actual process of production of ferm bevs and how it has continued to today and remains important in Latin American cultures
+Talk about actual process of production of ferm bevs and how it has continued to today and remains important in Latin American cultures.
 <param ve-image
 title="_Proceedings of the Royal Society of London_(1906)" url="Pots.jpg"
        fit="cover"
@@ -81,7 +81,7 @@ title="Albert Eckhout,_Still life with Mandioca_, 17th century, National Museum 
        fit="cover"
        attribution="Wikimedia Commons">
 
-Cassava was becoming established as a staple in the West Indies by the 17th century, as described in Maria Sybilla Merian’s Metamorphosis insectorum Surinamensium (1719). Merian’s meticulously illustrated book describes plants and insects she encountered during her stay in Surinam between 1699 and 1701. Merian describes the cassava root as the ingredient for bread, a common food for both indigenous peoples and Europeans living in America by this time. 
+Cassava was becoming established as a staple in the West Indies by the 17th century, as described in Maria Sybilla Merian’s _Metamorphosis insectorum Surinamensium_ (1719). Merian’s meticulously illustrated book describes plants and insects she encountered during her stay in Surinam between 1699 and 1701. Merian describes the cassava root as the ingredient for bread, a common food for both indigenous peoples and Europeans living in America by this time. 
 <param ve-image
 title="Maria Sybilla Merian, 17th century" url="Merian_cassava.jpg"
        fit="cover"
@@ -89,7 +89,7 @@ title="Maria Sybilla Merian, 17th century" url="Merian_cassava.jpg"
 
 
 ## Racism and slavery
-Descriptions of cassava in European texts became closely linked to emerging ideas of race as we move from the 18th into the 19th century. Even though earlier texts sometimes feature indigenous peoples working with some form of technology, texts from the late 18th century onwards began to situate indigenous peoples in more primitive-looking landscapes which reduce them to stereotypes. An engraving in Thomas Middleton’s Geography Systems (1769) demonstrates how books during this time applied derogatory terms such as “negros” to black bodies.
+Descriptions of cassava in European texts became closely linked to emerging ideas of race as we move from the 18th into the 19th century. Even though earlier texts sometimes feature indigenous peoples working with some form of technology, texts from the late 18th century onwards began to situate indigenous peoples in more primitive-looking landscapes which reduce them to stereotypes. An engraving in Charles Thomas Middleton’s _Geography Systems_ (1769) demonstrates how books during this time applied derogatory terms such as “negroes” to black bodies.
 <param ve-storiiies id="861e9">
 
 ## Diasporic and contemporary food uses
@@ -97,7 +97,7 @@ Descriptions of cassava in European texts became closely linked to emerging idea
 title="William Tufts Brigham,_Guatemala, The Land of the Quetzal_(1887)" url="Guatemala.jpg"
        fit="cover"
        attribution="Wikimedia Commons">
-In 1887, American botanist, geologist, and ethnologist William Tufts Brigham published Guatemala, The Land of the Quetzal, in which he reported observations from his time in the book’s eponymous region. While visiting the town of Livingston, he describes being invited into people’s homes and witnessing the process of making cassava bread. He first notes the size of the cassava roots (twenty or thirty pounds) and their poisonous juice, before explaining how the bread is made.
+In 1887, American botanist, geologist, and ethnologist William Tufts Brigham published _Guatemala, The Land of the Quetzal_, in which he reported observations from his time in the book’s eponymous region. While visiting the town of Livingston, he describes being invited into people’s homes and witnessing the process of making cassava bread. He first notes the size of the cassava roots (twenty or thirty pounds) and their poisonous juice, before explaining how the bread is made.
  
 Instructions for Livingston Cassava Bread:
 1.Using a mahogany board with inserted quartz crystal, grate the cassava root into a coarse meal.
@@ -129,7 +129,7 @@ Here we see a photo of workers in the cassava industry in the Dutch East Indies 
 5.Fry the cassava pieces 
 
 ## Conclusion
-Today, cassava is still grown in Java, and in other regions around the globe. This resilient, adaptable root with nutritious value has long become an ubiquitous presence in our lives, from tapioca school pudding to bubble tea. People all over the world continue to reinvent its meaning and connect to cassava in their own ways. Nigerian-American artist Njideka Akyunyili Crosby has featured cassava prominently in her work as she explores the ability of people, plants, and paintings to inhabit multiple spaces. For Crosby, cassava has a specific association with village life in Nigeria. In her painting Cassava Garden, she juxtaposes it with an Indian rubber tree from her life in Los Angeles to create an imagined garden where two plants that are not usually found together can coexist. Ultimately, she uses cassava and the Indian rubber tree to ask, “when does something belong to a place?” 
+Today, cassava is still grown in Java, and in other regions around the globe. This resilient, adaptable root with nutritious value has long become an ubiquitous presence in our lives, from tapioca school pudding to bubble tea. People all over the world continue to reinvent its meaning and connect to cassava in their own ways. Nigerian-American artist Njideka Akyunyili Crosby has featured cassava prominently in her work as she explores the ability of people, plants, and paintings to inhabit multiple spaces. For Crosby, cassava has a specific association with village life in Nigeria. In her painting _Cassava Garden_, she juxtaposes it with an Indian rubber tree from her life in Los Angeles to create an imagined garden where two plants that are not usually found together can coexist. Ultimately, she uses cassava and the Indian rubber tree to ask, “when does something belong to a place?” 
 <param ve-image
 title="Cassava Garden" url="Crosby.jpg"
        fit="contain"

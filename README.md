@@ -42,6 +42,18 @@ title="Proceedings" url="https://www.biodiversitylibrary.org/pageimage/43363072"
        attribution="Biodiversity Heritage Library">
 Today, these two varieties belong to the same species of cultivated cassava, Manihot esculenta. In the past, however, scientists thought they were two different species. Then, bitter cassava was identified as Manihot utilissima, and sweet cassava as Manihot aipi. An article on cyanogenesis in the 1906 Proceedings of the Royal Society of London outlines the many experimentations which had been conducted on the cassava root to determine its composition. Such endeavours can be traced back as early as the 18th century, when Europeans began to write about methods of extracting the starch from cassava. Before such technologies existed however, Europeans relied upon indigenous knowledge to learn how to process cassava before consumption. 
 
+## Encounters with cassava
+The cassava plant is native to Bolivia, Brazil, Colombia, Ecuador and Peru. It is no surprise then, that some of the earliest descriptions of cassava are found in books written by European travelers to South America.
+<param ve-image
+title="Proceedings" url="https://www.biodiversitylibrary.org/pageimage/47360879"
+       fit="cover"
+       attribution="Biodiversity Heritage Library">
+The method of preparing cassava is illustrated in Historia Naturalis Brasiliae (1648), a comprehensive text on Brazilian flora and fauna. It was written by Willem Piso, a Dutch physician and naturalist who travelled with Johan Maurits and the Dutch West India Company to Brazil between 1637 to 1644. Albert Eckhout, an artist on this very same journey, also painted a still-life of the cassava plant, which became one of the earliest paintings of native flora from Brazil in Europe.
+<param ve-image
+title="Proceedings" url="Albert_Eckhout_Mandioca.jpg"
+       fit="cover"
+       attribution="Wikimedia Commons">
+
 ## Racism and slavery
 Descriptions of cassava in European texts became closely linked to emerging ideas of race as we move from the 18th into the 19th century. Even though earlier texts sometimes feature indigenous peoples working with some form of technology, texts from the late 18th century onwards began to situate indigenous peoples in more primitive-looking landscapes which reduce them to stereotypes. An engraving in Thomas Middleton’s Geography Systems (1769) demonstrates how books during this time applied derogatory terms such as “negros” to black bodies.
 <param ve-storiiies id="861e9">

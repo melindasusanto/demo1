@@ -19,7 +19,15 @@ title="Cassava Garden" url="Crosby.jpg"
        fit="contain"
        attribution="Courtesy of the artist">
        
-## Indigenous Uses
+## Indigenous Food Uses
+The native distribution of cassava spans Western South American through Brazil, as indicated by the countries highlighted in [green] on the map to the right. Based on archaeological evidence, it is thought that cassava was domesticated in small garden plots through several individual events by different people groups living in these areas around 8,000 B.C. From there, domesticated Manihot esculenta spread by other domestication events or through short-distance trade of cuttings or seeds from the plant, rather than by transporting the perishable roots. Because cassava favors warm and hot climes, today it can be found successfully growing in parts of North America, South America, Africa, the Mediterranean, Southeast Asia and islands in the Pacific Ocean. 
+
+In Peru, there is evidence from ancient textiles, pottery and archaeobotanical findings that the Moche (A.D. 250-750), Nazca (200 B.C.-A.D. 600)  and Chimú (A.D. 1000-1470) cultures all valued cassava. To the right is a vessel from the Chimú culture depicting cassava roots.
+<param ve-image
+title="Pottery vessel" url="Chimu.jpg"
+       fit="cover"
+       attribution="tbc">
+
 Cassava is a starchy tuber and can be used to make a variety of dishes and beverages. Most commonly it is made into a starchy flour to produce breads and cakes, or it can be used to make fermented beverages. Accounts of native peoples in South America and Latin America producing fermented beverages permeate the records kept by European travellers and conquerors. In the 16th century, a detailed account of the preparation of a fermented alcoholic drink was made by a Frenchman Jean de Léry who visited Brazil, in the early 17th century a Spaniard, Antonio de León Pinelo, kept a very similar account of the process in Peru, and a British duo by the names of Bedford Pim and Berthold Seemann encountered the same process of cassava fermentation in 19th century in Nicaragua.  Depending on the location, the beverage can be called chicha, massato (a non-alcoholic variant mixed with honey), acca, kufa or mushla. 
 <param ve-image
 title="Antonio de León Pinelo (1636)" url="Pinelo.jpg"

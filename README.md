@@ -53,18 +53,17 @@ url="https://books.google.nl/books?id=rK1hAAAAcAAJ&dq=Histoire%20d'un%20voyage%2
        
 Talk about actual process of production of ferm bevs and how it has continued to today and remains important in Latin American cultures.
 <param ve-image
-title="_Proceedings of the Royal Society of London_(1906)" url="Pots.jpg"
+title="Pots" url="Pots.jpg"
        fit="cover"
        attribution="tbc">
 The preparation process for chicha uses several tools.  The basic process is that cassava is either turned into flour or cut, then boiled, chewed and combined with saliva in the mouth for some time, then boiled again in a different vessel, then it is left to ferment for several days until it is ready for consumption. To the right are modern tools used to create chicha in Argentina.This shows that even today people continue to follow the traditional methods established by their ancestors to create fermented cassava beverages.
 
 
 ## Sweet and bitter cassava
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.bm000588948">
 Cassava exists in two varieties: sweet and bitter cassava. In their raw forms, both sweet and bitter cassava contain hydrocyanic acid which is toxic to humans. The more bitter the cassava is, the more toxic it is. Making the cassava root safe for consumption continues to be a concern today, especially in developing countries where cassava is a food security crop.
 
 Today, these two varieties belong to the same species of cultivated cassava, _Manihot esculenta_. In the past, however, scientists thought they were two different species. Then, bitter cassava was identified as _Manihot utilissima_, and sweet cassava as _Manihot aipi_. An article on cyanogenesis in the 1906 Proceedings of the Royal Society of London outlines the many experimentations which had been conducted on the cassava root to determine its composition. Such endeavours can be traced back as early as the 18th century, when Europeans began to write about methods of extracting the starch from cassava. Before such technologies existed however, Europeans relied upon indigenous knowledge to learn how to process cassava before consumption. 
-<param ve-plant-specimen jpid="10.5555/al.ap.specimen.bm000588948">
-
 
 ## Subtitle tbc
 The cassava plant is native to Bolivia, Brazil, Colombia, Ecuador and Peru. It is no surprise then, that some of the earliest descriptions of cassava are found in books written by European travelers to South America.
